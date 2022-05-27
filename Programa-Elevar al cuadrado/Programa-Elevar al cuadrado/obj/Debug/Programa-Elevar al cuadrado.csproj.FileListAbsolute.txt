@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\bin\Debug\Programa-Elevar al cuadrado.exe.config
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\bin\Debug\Programa-Elevar al cuadrado.exe
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\bin\Debug\Programa-Elevar al cuadrado.pdb
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\obj\Debug\Programa-Elevar al cuadrado.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\obj\Debug\Programa-Elevar al cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\obj\Debug\Programa-Elevar al cuadrado.exe
+C:\Users\DELL\source\repos\Programa-Elevar al cuadrado\Programa-Elevar al cuadrado\obj\Debug\Programa-Elevar al cuadrado.pdb
